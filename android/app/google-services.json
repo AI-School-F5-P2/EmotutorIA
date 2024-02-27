@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795226650621",
+    "project_id": "emotutoria",
+    "storage_bucket": "emotutoria.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795226650621:android:b8bfd38e4c9b74f409cb94",
+        "android_client_info": {
+          "package_name": "com.factoriaf5.emotutoria"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDTY3WzVjQr6gWmOY7cbIAgvRJVF-edHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
